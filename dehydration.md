@@ -1,0 +1,6 @@
+**Dehydration** must be treated by replenishing the fluid level in the body. This can be done by consuming clear fluids such as water, clear broths, frozen water or ice pops, or sports drinks (such as Gatorade). Some dehydration patients, however, will require intravenous fluids in order to rehydrate. People who are dehydrated should avoid drinks containing caffeine such as coffee, tea, and sodas.
+Underlying conditions that are causing dehydration should also be treated with the appropriate medication. This may include medication available to purchase over-the-counter or online, such as anti-diarrhea medicines, anti-emetics (stop vomiting), and anti-fever medicines.
+**Prevention**
+Prevention is really the most important treatment for dehydration. Consuming plenty of fluids and foods that have high water content (such as fruits and vegetables) should be enough for most people to prevent dehydration.
+People should be cautious about doing activities during extreme heat or the hottest part of the day, and anyone who is exercising should make replenishing fluids a priority.
+_Since the elderly and very young are most at risk of being dehydrated, special attention should be given to them to make sure they are receiving enough fluids._
