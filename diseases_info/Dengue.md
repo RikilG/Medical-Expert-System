@@ -4,6 +4,11 @@ Millions of cases of dengue infection occur worldwide each year. Dengue fever is
 
 Researchers are working on dengue fever vaccines. For now the best prevention is to reduce mosquito habitat in areas where dengue fever is common.
 
+**Symptoms**:
+- high fever
+- rash
+- muscle and joint pains
+
 **Treatment**
 
 No specific treatment for dengue fever exists. Your doctor may recommend that you drink plenty of fluids to avoid dehydration from vomiting and a high fever.

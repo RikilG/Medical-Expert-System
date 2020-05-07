@@ -4,7 +4,12 @@ Osteoarthritis causes cartilage — the hard, slippery tissue that covers the en
 
 Uric acid crystals, which form when there's too much uric acid in your blood, can cause gout. Infections or underlying disease, such as psoriasis or lupus, can cause other types of arthritis.
 
- **How is arthritis treated?**
+**Symptoms**
+- swelling of joints
+- joint pain
+- stiffness
+
+**How is arthritis treated?**
 
 The main goal of treatment is to reduce the amount of pain you’re experiencing and prevent additional damage to the joints. You’ll learn what works best for you in terms of controlling pain. Some people find heating pads and ice packs to be soothing. Others use mobility assistance devices, like canes or walkers, to help take pressure off sore joints.
 

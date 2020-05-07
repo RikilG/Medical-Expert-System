@@ -6,6 +6,12 @@ Acute bronchitis, also called a chest cold, usually improves within a week to 10
 
 However, if you have repeated bouts of bronchitis, you may have chronic bronchitis, which requires medical attention. Chronic bronchitis is one of the conditions included in chronic obstructive pulmonary disease (COPD).
 
+**Symptoms**:
+- inflamation in wind pipe
+- thick mucus in cough, can be discoloured
+- often develops from other respiratory infections
+- often found in cases of smoking
+
 **Prevention**
 
 To reduce your risk of bronchitis, follow these tips:

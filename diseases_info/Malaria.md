@@ -4,6 +4,10 @@ While the disease is uncommon in temperate climates, malaria is still common in 
 
 If you're traveling to locations where malaria is common, take steps to prevent mosquito bites by wearing protective clothing, using insect repellants and sleeping under treated mosquito nets. Depending on the area you are visiting and your individual risk factors for infection, you may also want to take preventive medicine before, during and after your trip. Many malaria parasites are now resistant to the most common drugs used to treat the disease.
 
+**Symptoms**:
+- high fever
+- shaking chills
+
 **Treatment**
 
 Treatment aims to eliminate the Plasmodium parasite from the bloodstream.

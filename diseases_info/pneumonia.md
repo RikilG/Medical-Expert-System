@@ -1,5 +1,12 @@
 **Pneumonia** is a bacterial or viral infection of the lungs.  Symptoms can include fever, chills, shortness of breath, coughing that produces phlegm, and chest pain.
 
+**Symptoms**:
+- fever
+- chills
+- shortness of breath
+- coughing with phlegm
+- chest pain
+
 **Treatment**
 
 Most cases of pneumonia can be treated at home. However, babies, children, and people with severe pneumonia may need to be admitted to hospital for treatment.

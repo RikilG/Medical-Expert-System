@@ -2,6 +2,10 @@
 
 Gastritis may occur suddenly (acute gastritis), or appear slowly over time (chronic gastritis). In some cases, gastritis can lead to ulcers and an increased risk of stomach cancer. For most people, however, gastritis isn't serious and improves quickly with treatment.
 
+**Symptoms**:
+- inflamation in stomach
+- can be due to regular use of pain relievers or drinking
+
 **Treatment**
 
 Treatment of gastritis depends on the specific cause. Acute gastritis caused by nonsteroidal anti-inflammatory drugs or alcohol may be relieved by stopping use of those substances.

@@ -5,6 +5,10 @@ Asthma symptoms occur when the lining of your airways swell and the muscles arou
 
 These conditions then bring on an asthma “attack,” the coughing and tightness in your chest that is typical of asthma.
 
+**Symptoms**:
+- breathing difficulty
+- difficult to do physical activities
+
 **Treatment of asthma**
 
 _Treatments for asthma fall into three primary categories: breathing exercises, rescue or first aid treatments, and long-term asthma control medications._
