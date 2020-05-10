@@ -4,6 +4,18 @@ While the disease is uncommon in temperate climates, malaria is still common in 
 
 If you're traveling to locations where malaria is common, take steps to prevent mosquito bites by wearing protective clothing, using insect repellants and sleeping under treated mosquito nets. Depending on the area you are visiting and your individual risk factors for infection, you may also want to take preventive medicine before, during and after your trip. Many malaria parasites are now resistant to the most common drugs used to treat the disease.
 
+**Diagnosis**
+
+To diagnose malaria, your doctor will likely review your medical history, conduct a physical exam and order blood tests. Blood tests are the only way to confirm a malaria diagnosis. Certain blood tests can help your doctor by showing:
+
+    1. The presence of the parasite in the blood, to confirm that you have malaria
+    2. Which type of malaria parasite is causing your symptoms
+    3. If your infection is caused by a parasite resistant to certain drugs
+
+Other blood tests help determine whether the disease is causing any serious complications.
+
+Some blood tests can take several days to complete, while others can produce results in less than 15 minutes.
+
 **Treatment**
 
 Treatment aims to eliminate the Plasmodium parasite from the bloodstream.

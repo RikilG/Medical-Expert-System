@@ -1,5 +1,22 @@
 **Pneumonia** is a bacterial or viral infection of the lungs.  Symptoms can include fever, chills, shortness of breath, coughing that produces phlegm, and chest pain.
 
+**Diagnosis**
+
+Your doctor will start by asking about your medical history and doing a physical exam, including listening to your lungs with a stethoscope to check for abnormal bubbling or crackling sounds that suggest pneumonia.
+
+If pneumonia is suspected, your doctor may recommend the following tests:
+
+    1. **Blood tests**. Blood tests are used to confirm an infection and to try to identify the type of organism causing the infection. However, precise identification isn't always possible.
+    2. **Chest X-ray**. This helps your doctor diagnose pneumonia and determine the extent and location of the infection. However, it can't tell your doctor what kind of germ is causing the pneumonia.
+    3. **Pulse oximetry**. This measures the oxygen level in your blood. Pneumonia can prevent your lungs from moving enough oxygen into your bloodstream.
+    4. **Sputum test**. A sample of fluid from your lungs (sputum) is taken after a deep cough and analyzed to help pinpoint the cause of the infection.
+
+Your doctor might order additional tests if you're older than age 65, are in the hospital, or have serious symptoms or health conditions. These may include:
+
+    1. **CT scan**. If your pneumonia isn't clearing as quickly as expected, your doctor may recommend a chest CT scan to obtain a more detailed image of your lungs.
+    2. **Pleural fluid culture.** A fluid sample is taken by putting a needle between your ribs from the pleural area and analyzed to help determine the type of infection.
+
+
 **Treatment**
 
 Most cases of pneumonia can be treated at home. However, babies, children, and people with severe pneumonia may need to be admitted to hospital for treatment.

@@ -2,6 +2,37 @@
 
 Body mass index best defines obesity. A person's height and weight determines his or her body mass index. The body mass index (BMI) equals a person's weight in kilograms (kg) divided by their height in meters (m) squared (more information will be found later in the article). Since BMI describes body weight relative to height, there is a strong correlation with total body fat content in adults. An adult who has a BMI of 25-29.9 is overweight, and an adult who has a BMI over 30 is obese. A person with a BMI of 18.5-24.9 has a normal weight. A person is morbidly obese (extreme obesity) if his or her BMI is over 40.
 
+**Diagnosis**
+
+As part of regular well-child care, the doctor calculates your child's BMI and determines where it falls on the BMI-for-age growth chart. The BMI helps indicate if your child is overweight for his or her age and height.
+
+Using the growth chart, your doctor determines your child's percentile, meaning how your child compares with other children of the same sex and age. For example, if your child is in the 80th percentile, it means that compared with other children of the same sex and age, 80 percent have a lower weight or BMI.
+
+Cutoff points on these growth charts, established by the Centers for Disease Control and Prevention, help identify children who are overweight and obese:
+
+    1. BMI between 85th and 94th percentiles — overweight
+    2. BMI 95th percentile or above — obesity
+
+Because BMI doesn't consider things such as being muscular or having a larger than average body frame and because growth patterns vary greatly among children, your doctor also factors in your child's growth and development. This helps determine whether your child's weight is a health concern.
+
+In addition to BMI and charting weight on the growth charts, the doctor evaluates:
+
+    1. Your family's history of obesity and weight-related health problems, such as diabetes
+    2. Your child's eating habits
+    3. Your child's activity level
+    4. Other health conditions your child has
+    5. Psychosocial history, including incidences of depression, sleep disturbances, and sadness and whether your child feels isolated or alone or is the target of bullying
+
+**Blood tests**
+
+Your child's doctor might order blood tests if he or she finds that your child is obese. These tests might include:
+
+    1. A cholesterol test
+    2. A blood sugar test
+    3. Other blood tests to check for hormone imbalances, vitamin D deficiency or other conditions associated with obesity
+
+Some of these tests require that your child not eat or drink anything before the test. Ask if your child needs to fast before a blood test and for how long.
+
 **Treatment**
 
 The goal of obesity treatment is to reach and stay at a healthy weight. This improves your overall health and lowers your risk of developing complications related to obesity. You may need to work with a team of health professionals — including a dietitian, behavioral counselor or an obesity specialist — to help you understand and make changes in your eating and activity habits.
