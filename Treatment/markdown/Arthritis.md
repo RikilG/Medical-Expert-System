@@ -24,7 +24,7 @@ These types of tests can detect problems within your joint that may be causing y
     4. **Ultrasound**. This technology uses high-frequency sound waves to image soft tissues, cartilage and fluid-containing structures near the joints (bursae). Ultrasound is also used to guide needle placement for joint aspirations and injections.
 
 
- **How is arthritis treated?**
+ ## **How is arthritis treated?**
 
 The main goal of treatment is to reduce the amount of pain you’re experiencing and prevent additional damage to the joints. You’ll learn what works best for you in terms of controlling pain. Some people find heating pads and ice packs to be soothing. Others use mobility assistance devices, like canes or walkers, to help take pressure off sore joints.
 
