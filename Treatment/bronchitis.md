@@ -6,6 +6,17 @@ Acute bronchitis, also called a chest cold, usually improves within a week to 10
 
 However, if you have repeated bouts of bronchitis, you may have chronic bronchitis, which requires medical attention. Chronic bronchitis is one of the conditions included in chronic obstructive pulmonary disease (COPD).
 
+**Diagnosis**
+
+During the first few days of illness, it can be difficult to distinguish the signs and symptoms of bronchitis from those of a common cold. During the physical exam, your doctor will use a stethoscope to listen closely to your lungs as you breathe.
+
+In some cases, your doctor may suggest the following tests:
+
+    1. **Chest X-ray**. A chest X-ray can help determine if you have pneumonia or another condition that may explain your cough. This is especially important if you ever were or currently are a smoker.
+    2. **Sputum tests**. Sputum is the mucus that you cough up from your lungs. It can be tested to see if you have illnesses that could be helped by antibiotics. Sputum can also be tested for signs of allergies.
+    3. b. During a pulmonary function test, you blow into a device called a spirometer, which measures how much air your lungs can hold and how quickly you can get air out of your lungs. This test checks for signs of asthma or emphysema.
+
+
 **Prevention**
 
 To reduce your risk of bronchitis, follow these tips:

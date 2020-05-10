@@ -4,6 +4,19 @@ Pancreatitis can occur as acute pancreatitis — meaning it appears suddenly and
 
 Mild cases of pancreatitis may go away without treatment, but severe cases can cause life-threatening complications.
 
+**Diagnosis**
+
+Tests and procedures used to diagnose pancreatitis include:
+
+    1. **Blood tests** to look for elevated levels of pancreatic enzymes
+    2. **Stool tests** in chronic pancreatitis to measure levels of fat that could suggest your digestive system isn't absorbing nutrients adequately
+    3. **Computerized tomography (CT) scan** to look for gallstones and assess the extent of pancreas inflammation
+    4. **Abdominal ultrasound** to look for gallstones and pancreas inflammation
+    5. **Endoscopic ultrasound** to look for inflammation and blockages in the pancreatic duct or bile duct
+    6. **Magnetic resonance imaging (MRI)** to look for abnormalities in the gallbladder, pancreas and ducts
+
+Your doctor may recommend other tests, depending on your particular situation.
+
 **Treatment**
 
 Treatment for acute pancreatitis will depend on whether it is mild or serious. In mild cases, the risk of complications is small. In serious cases, the risk is significant.

@@ -5,6 +5,30 @@ Asthma symptoms occur when the lining of your airways swell and the muscles arou
 
 These conditions then bring on an asthma “attack,” the coughing and tightness in your chest that is typical of asthma.
 
+**Diagnosis**
+**Physical exam**
+
+To rule out other possible conditions — such as a respiratory infection or chronic obstructive pulmonary disease (COPD) — your doctor will do a physical exam and ask you questions about your signs and symptoms and about any other health problems.
+**Tests to measure lung function**
+
+You may also be given lung (pulmonary) function tests to determine how much air moves in and out as you breathe. These tests may include:
+
+    1. **Spirometry**. This test estimates the narrowing of your bronchial tubes by checking how much air you can exhale after a deep breath and how fast you can breathe out.
+    2. **Peak flow**. A peak flow meter is a simple device that measures how hard you can breathe out. Lower than usual peak flow readings are a sign your lungs may not be working as well and that your asthma may be getting worse. Your doctor will give you instructions on how to track and deal with low peak flow readings.
+
+Lung function tests often are done before and after taking a medication called a bronchodilator (brong-koh-DIE-lay-tur), such as albuterol, to open your airways. If your lung function improves with use of a bronchodilator, it's likely you have asthma.
+**Additional tests**
+
+Other tests to diagnose asthma include:
+
+    1. **Methacholine challenge**. Methacholine is a known asthma trigger that, when inhaled, will cause mild constriction of your airways. If you react to the methacholine, you likely have asthma. This test may be used even if your initial lung function test is normal.
+    2. **Nitric oxide test**. This test, though not widely available, measures the amount of the gas, nitric oxide, that you have in your breath. When your airways are inflamed — a sign of asthma — you may have higher than normal nitric oxide levels.
+    3. **Imaging tests**. A chest X-ray and high-resolution computerized tomography (CT) scan of your lungs and nose cavities (sinuses) can identify any structural abnormalities or diseases (such as infection) that can cause or aggravate breathing problems.
+    4. **Allergy testing**. This can be performed by a skin test or blood test. Allergy tests can identify allergy to pets, dust, mold and pollen. If important allergy triggers are identified, this can lead to a recommendation for allergen immunotherapy.
+    5. **Sputum eosinophils**. This test looks for certain white blood cells (eosinophils) in the mixture of saliva and mucus (sputum) you discharge during coughing. Eosinophils are present when symptoms develop and become visible when stained with a rose-colored dye (eosin).
+    6. **Provocative testing for exercise and cold-induced asthma**. In these tests, your doctor measures your airway obstruction before and after you perform vigorous physical activity or take several breaths of cold air.
+
+
 **Treatment of asthma**
 
 _Treatments for asthma fall into three primary categories: breathing exercises, rescue or first aid treatments, and long-term asthma control medications._

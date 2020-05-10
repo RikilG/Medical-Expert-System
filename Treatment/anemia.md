@@ -6,6 +6,19 @@ While the condition may be common, many people don’t know they have iron defic
 
 **In women** of childbearing age, the most common cause of iron deficiency anemia is a loss of iron in the blood due to heavy menstruation or pregnancy. A poor diet or certain intestinal diseases that affect how the body absorbs iron can also cause iron deficiency anemia. 
 
+**Diagnosis**
+
+To diagnose anemia, your doctor is likely to ask you about your medical and family history, perform a physical exam, and run the following tests:
+
+    1. **Complete blood count (CBC)**. A CBC is used to count the number of blood cells in a sample of your blood. For anemia, your doctor will be interested in the levels of the red blood cells contained in your blood (hematocrit) and the hemoglobin in your blood.
+
+    Normal adult hematocrit values vary among medical practices but are generally between 40% and 52% for men and 35% and 47% for women. Normal adult hemoglobin values are generally 14 to 18 grams per deciliter for men and 12 to 16 grams per deciliter for women.
+    2. **A test to determine the size and shape of your red blood cells**. Some of your red blood cells might also be examined for unusual size, shape and color.
+
+**Additional diagnostic tests**
+
+If you receive a diagnosis of anemia, your doctor might order additional tests to determine the cause. Occasionally, it can be necessary to study a sample of your bone marrow to diagnose anemia.
+
 **Treatment options**
 
 **Iron supplements**

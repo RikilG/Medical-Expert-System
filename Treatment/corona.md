@@ -6,6 +6,16 @@ The disease caused by an infection with SARS-CoV-2 is called COVID-19, which sta
 
 In spite of the global panic in the news about this virus, you’re unlikely to contract SARS-CoV-2 unless you’ve been in contact with someone who has a SARS-CoV-2 infection.
 
+**Diagnosis**
+
+If you develop symptoms of coronavirus disease 2019 (COVID-19) and you've been exposed to the virus, contact your doctor. Tell him or her if you've traveled to any areas with ongoing community spread of COVID-19 according to CDC and WHO. Also let your doctor know if you've had close contact with anyone who has been diagnosed with COVID-19.
+
+Factors used to decide whether to test you for COVID-19 may differ depending on where you live. Depending on your location, you may need to be screened by your clinic to determine if testing is appropriate and available.
+
+In the U.S., your doctor will determine whether to conduct tests for COVID-19 based on your signs and symptoms, as well as whether you have had close contact with someone diagnosed with COVID-19 or traveled to or lived in any areas with ongoing community spread of COVID-19 in the past 14 days. Your doctor may also consider testing if you're at higher risk of serious illness.
+
+_To test for COVID-19, a health care provider uses a long swab to take a nasal sample. The sample is then sent to a lab for testing. If you're coughing up saliva (sputum), that may be sent for testing._
+
 **Treatment**
 
 Currently, no antiviral medication is recommended to treat COVID-19, and no cure is available for COVID-19. Antibiotics aren't effective against viral infections such as COVID-19. Ongoing research is studying various drugs that may be effective for treating severe COVID-19.

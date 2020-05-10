@@ -12,6 +12,14 @@ For most people, influenza resolves on its own. But sometimes, influenza and its
 
 Though the annual influenza vaccine isn't 100 percent effective, it's still your best defense against the flu.
 
+**Diagnosis**
+
+Your doctor will conduct a physical exam, look for signs and symptoms of influenza, and possibly order a test that detects influenza viruses.
+
+During times when influenza is widespread, you may not need to be tested for influenza. Your doctor may diagnose you based on your signs and symptoms.
+
+In some cases, your doctor may suggest that you be tested for influenza. He or she may use various tests to diagnose influenza. Polymerase chain reaction (PCR) testing is becoming more common in many hospitals and labs. This test may be done while you're in your doctor's office or in the hospital. PCR testing is more sensitive than other tests and may be able to identify the influenza strain.
+
 **Treatment**
 
 Usually, you'll need nothing more than bed rest and plenty of fluids to treat the flu. But if you have severe infection or are at higher risk for complications, your doctor may prescribe an antiviral medication, such as oseltamivir (Tamiflu), zanamivir (Relenza), peramivir (Rapivab) or baloxavir (Xofluza). These drugs may shorten your illness by a day or so and help prevent serious complications.

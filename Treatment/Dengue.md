@@ -4,6 +4,14 @@ Millions of cases of dengue infection occur worldwide each year. Dengue fever is
 
 Researchers are working on dengue fever vaccines. For now the best prevention is to reduce mosquito habitat in areas where dengue fever is common.
 
+**Diagnosis**
+
+Diagnosing dengue fever can be difficult, because its signs and symptoms can be easily confused with those of other diseases — such as malaria, leptospirosis and typhoid fever.
+
+Your doctor will likely ask about your medical and travel history. Be sure to describe international trips in detail, including the countries you visited and the dates, as well as any contact you may have had with mosquitoes.
+
+Certain laboratory tests can detect evidence of the dengue viruses, but test results usually come back too late to help direct treatment decisions.
+
 **Treatment**
 
 No specific treatment for dengue fever exists. Your doctor may recommend that you drink plenty of fluids to avoid dehydration from vomiting and a high fever.
