@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import webbrowser
 from experta import *
 
 ### Helper functions ###
@@ -37,9 +38,12 @@ def yes_no(input_str):
         else: ans = None
 
 def suggest_disease(disease, symptoms):
-    print(f"You might be suffering from {disease}")
-    symptoms = ', '.join(symptoms)
-    print(f"These symptoms lead to this conclusion: {symptoms}")
+    print(f"\nYou might be suffering from {disease}")
+    symptoms = '- ' + '\n - '.join(symptoms)
+    print(f"This conclusion is reached because you show symptoms among the following:\n {symptoms}")
+    open_doc = yes_no(f"\nDo you want to know more regarding {disease}?")
+    if open_doc == "yes":
+        webbrowser.open(f"Treatment/html/{disease}.html", new=2)
     exit(0)
 
 
@@ -100,7 +104,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=3:
-            suggest_disease("Arthritis",[""])
+            symptoms = ["Stiff joints", "Swelling in joints", "Joint Pains", "Red shik around joints", "Tiredness", "Reduced Movement near joints", "Appetite loss"]
+            suggest_disease("Arthritis", symptoms)
 
     @Rule(AND(Fact(appetite_loss="yes"), Fact(fever="no"), Fact(short_breath="no"), Fact(fatigue="no"), Fact("Severe_Vomiting")))
     def askPepticUlcer(self):
@@ -115,7 +120,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=3:
-            suggest_disease("Peptic Ulcer",[""])
+            symptoms = ["Appetite loss", "Severe Vomiting", "Burning sensation in stomach", "Bloated stomach", "Nausea", "Weight loss", "Abdominal pain"]
+            suggest_disease("Peptic Ulcer", symptoms)
 
     @Rule(AND(Fact(appetite_loss="yes"), Fact(fever="no"), Fact(short_breath="no"), Fact(fatigue="no"), Fact("Normal_Vomiting")))
     def askGastritis(self):
@@ -131,7 +137,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=4:
-            suggest_disease("Gastritis",[""])
+            symptoms = ["Appetite loss", "Vomiting", "Nausea", "Fullness near abdomen", "Bloating near abdomen", "Abdominal pain", "Indigestion" "Gnawing pain near abdomen"]
+            suggest_disease("Gastritis", symptoms)
 
 
     @Rule(AND(Fact(fatigue="yes"), Fact(fever="no"), Fact(short_breath="no")))
@@ -155,7 +162,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=4:
-            suggest_disease("Diabetes",[""])
+            symptoms = ["Fatigue", "Extreme thirst", "Extreme hunger", "Weight loss", "Blurred vision", "Frequent infections", "Frequent urination", "Irritability", "Slow healing of sores"]
+            suggest_disease("Diabetes", symptoms)
 
     @Rule(AND(Fact(fatigue="yes"), Fact(fever="no"), Fact(short_breath="no"), Fact(extreme_thirst="yes"), Fact(dizziness="yes")))
     def askDehydration(self):
@@ -169,7 +177,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=2:
-            suggest_disease("Dehydration",[""])
+            symptoms = ["Fatigue", "Extreme thirst", "Dizziness", "Dark urine", "Lethargic feeling", "Dry mouth", "Less frequent urination"]
+            suggest_disease("Dehydration", symptoms)
 
     @Rule(AND(Fact(fatigue="yes"), Fact(fever="no"), Fact(short_breath="no"), Fact(muscle_weakness="yes")))
     def askHypothoroidism(self):
@@ -189,7 +198,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=7:
-            suggest_disease("Hypothyroidism",[""])
+            symptoms = ["Fatigue", "Muscle weakness", "Depression", "Constipation", "Cold feeling", "Dry skin", "Dry hair", "Weight gain", "Decreased sweating", "Slow heart rate", "Joint pains", "Hoarseness in voice"]
+            suggest_disease("Hypothyroidism", symptoms)
 
     @Rule(AND(Fact(short_breath="yes"), Fact(fever="no")))
     def askRelatedToShortBreath(self):
@@ -214,7 +224,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=4:
-            suggest_disease("Obesity",[""])
+            symptoms = ["Shortness in breath", "Back and Joint pains", "High sweating", "Snoring habit", "Tireness", "Low confidence"]
+            suggest_disease("Obesity", symptoms)
 
     @Rule(AND(Fact(short_breath="yes"), Fact(fever="no"), Fact(chest_pain="yes"), Fact(fatigue="yes"), Fact(headache="yes")))
     def askAnemia(self):
@@ -229,7 +240,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=3:
-            suggest_disease("Anemia",[""])
+            symptoms = ["Shortness in breath", "Chest pain", "Fatigue", "Headache", "Irregular heartbeat", "Weakness", "Pale skin", "Dizziness", "Cold limbs"]
+            suggest_disease("Anemia", symptoms)
 
     @Rule(AND(Fact(short_breath="yes"), Fact(fever="no"), Fact(chest_pain="yes"), Fact(fatigue="yes"), Fact(pain_arms="yes")))
     def askCAD(self):
@@ -243,7 +255,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=2:
-            suggest_disease("Coronary Heart Disease",[""])
+            symptoms = ["Shortness in breath", "Chest pain", "Fatigue", "Arm pains", "Heaviness", "Sweating", "Diziness", "Burning sensation near heart"]
+            suggest_disease("Coronary Arteriosclerosis", symptoms)
 
     @Rule(AND(Fact(short_breath="yes"), Fact(fever="no"), Fact(chest_pain="yes"), Fact(cough="yes")))
     def askAsthma(self):
@@ -255,7 +268,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=1:
-            suggest_disease("Asthma",[""])
+            symptoms = ["Shortness in breath", "Chest pain", "Cough", "Wheezing sound when exhaling", "Trouble sleep because of coughing or wheezing"]
+            suggest_disease("Asthma", symptoms)
 
     @Rule(Fact("High_Fever"))
     def askDengue(self):
@@ -272,7 +286,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=5:
-            suggest_disease("Dengue",[""])
+            symptoms = ["High fever", "Headache", "Eye pain", "Muscle pain", "Joint pains", "Nausea", "Rashes", "Bleeding"]
+            suggest_disease("Dengue", symptoms)
 
     @Rule(Fact("Low_Fever"))
     def askBronchitis(self):
@@ -291,7 +306,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=7:
-            suggest_disease("Bronchitis",[""])
+            symptoms = ["Slight Fever", "Cough", "Wheezing", "Chills in body", "Tightness in chest", "Sore throat", "Body aches", "Headache", "Breathlessness", "Blocke nose"]
+            suggest_disease("Bronchitis", symptoms)
 
     @Rule(Fact(red_eyes="yes"))
     def askEyeStatus(self):
@@ -344,7 +360,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=4:
-            suggest_disease("Influenza",[""])
+            symptoms = ["Fever", "Fatigue", "Sore throat", "Weakness", "Dry cough", "Muscle aches", "Chills", "Nasal congestion", "Headache"]
+            suggest_disease("Influenza", symptoms)
 
     @Rule(AND(Fact("Normal_Fever"), Fact(fatigue="yes"), Fact(abdominal_pain="yes")))
     def askHepatitis(self):
@@ -359,7 +376,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=3:
-            suggest_disease("Hepatitis",[""])
+            symptoms = ["Fever", "Fatigue", "Abdominal pain", "Flu like symptoms", "Dark urine", "Pale stool", "Weight loss", "Yellow eyes and skin(Jaundice)"]
+            suggest_disease("Hepatitis", symptoms)
 
     @Rule(AND(Fact("Normal_Fever"), Fact(chest_pain="yes"), Fact(short_breath="yes"), Fact(nausea="yes")))
     def askPneumonia(self):
@@ -374,7 +392,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=3:
-            suggest_disease("Pneumonia",[""])
+            symptoms = ["Fever", "Chest pain", "Shortness in breath", "Nausea", "Sweating with chills", "Rapid breathing", "Cough with phlegm", "Diarrhea"]
+            suggest_disease("Pneumonia", symptoms)
 
     @Rule(AND(Fact("Normal_Fever"), Fact(chills="yes"), Fact(abdominal_pain="yes"), Fact(nausea="yes")))
     def askMalaria(self):
@@ -390,7 +409,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=4:
-            suggest_disease("Malaria",[""])
+            symptoms = ["Fever", "Chills", "Abdominal pain", "Nausea", "Headache", "Sweating", "Cough", "Weakness", "Muscle pain", "Back pain"]
+            suggest_disease("Malaria", symptoms)
 
     @Rule(AND(Fact("Normal_Fever"), Fact(rashes="yes")))
     def askHIV(self):
@@ -408,7 +428,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=6:
-            suggest_disease("AIDS",[""])
+            symptoms = ["Fever", "Rashes", "Headache", "Muscle ache", "Sore throat", "Swollen lymph nodes", "Diarrhea", "Cough", "Weight loss", "Night sweat"]
+            suggest_disease("AIDS", symptoms)
 
     @Rule(AND(Fact("Normal_Fever"), Fact(nausea="yes")))
     def askPancreatitis(self):
@@ -423,7 +444,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=3:
-            suggest_disease("Pancreatitis",[""])
+            symptoms = ["Nausea", "Fever", "Upper abdominal pain", "Heartbeat", "Weight loss", "Oily and smelly stool"]
+            suggest_disease("Pancreatitis", symptoms)
 
     @Rule(AND(Fact("Normal_Fever"), Fact(fatigue="yes"), Fact(short_breath="yes"), Fact(nausea="yes")))
     def askCorona(self):
@@ -440,7 +462,8 @@ class MedicalExpert(KnowledgeEngine):
                 count+=1
 
         if count>=4:
-            suggest_disease("Corona Virus",[""])
+            symptoms = ["Fever", "Fatigue", "Shortness in breath", "Nausea", "Chills", "Cough", "Body aches", "Headache", "Sorethroat", "Diarrhea", "Loose sense of taste/smell"]
+            suggest_disease("Corona Virus", symptoms)
 
 if __name__ == "__main__":
     engine = MedicalExpert()
