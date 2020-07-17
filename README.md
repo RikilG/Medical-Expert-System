@@ -1,12 +1,10 @@
 <br />
 <p align="center">
-  <h2 align="center">YOUR_TITLE</h2>
+  <h2 align="center">Medical Expert System</h2>
 
   <p align="center">
     An expert system that helps to diagnose the diseases of a patient.
     <br />
-    <br />
-    <a href="https://github.com/nagasaibharath/Medical-Expert-System">View Demo</a>
   </p>
 </p>
 
