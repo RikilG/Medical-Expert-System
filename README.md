@@ -43,7 +43,7 @@ This following list of dependencies are present/used in the project
  
 1. Clone the Medical-Expert-System
 ```sh
-git clone https://github.com/nagasaibharath/Medical-Expert-System.git
+git clone https://github.com/RikilG/Medical-Expert-System.git
 cd Medical-Expert-System
 ```
 2. Install the experta package with pip (if not installed)
@@ -86,4 +86,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Naga Sai Bharath](https://github.com/nagasaibharath)
 - [Bonagiri Akash](https://github.com/akashalien)
 
-Project Link: [https://github.com/nagasaibharath/Medical-Expert-System](https://github.com/nagasaibharath/Medical-Expert-System)
+Project Link: [https://github.com/RikilG/Medical-Expert-System](https://github.com/RikilG/Medical-Expert-System)
